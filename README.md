@@ -9,14 +9,14 @@ and Greedy Best-First Search on a city grid.
 - Members: Adil Taimoor (I23-0104), Mohammed Anas (I23-3062)
 
 ## Algorithms Implemented
-- A* Search — optimal, heuristic-guided
-- Dijkstra's Algorithm — optimal, uninformed baseline
-- Greedy Best-First Search — fast, non-optimal
+- A* Search : optimal, heuristic-guided
+- Dijkstra's Algorithm : optimal, uninformed baseline
+- Greedy Best-First Search : fast, non-optimal
 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/Fire-Truck-Response-Navigator.git
+   git clone https://github.com/at51401ansari-Adil-taimoor/Fire-Truck-Response-Navigator.git
 
 2. Navigate to the project folder:
    cd Fire-Truck-Response-Navigator
@@ -31,7 +31,7 @@ and Greedy Best-First Search on a city grid.
    http://localhost:8501
 
 ## How to Use
-1. Set grid size using the sidebar slider (8–30)
+1. Set grid size using the sidebar slider (8-30)
 2. Select draw mode: Fire Station, Fire Location, or Obstacle
 3. Enter row and column coordinates and click Place
 4. Select algorithm from the dropdown (A*, Dijkstra, Greedy BFS)
