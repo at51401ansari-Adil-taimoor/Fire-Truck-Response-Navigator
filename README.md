@@ -6,7 +6,7 @@ and Greedy Best-First Search on a city grid.
 ## Project Info
 - Course: AI2002 Artificial Intelligence
 - University: FAST-NUCES
-- Members: Adil Taimoor (I23-0104), Mohammed Anas (I23-3062)
+- Members: Adil Taimoor (I23-0104), Mohammed Anas (I23-3026)
 
 ## Algorithms Implemented
 - A* Search : optimal, heuristic-guided
